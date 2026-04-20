@@ -1,9 +1,14 @@
 class Solution(object):
     def twoSum(self, nums, target):
         """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
+        Finds two indices such that their values sum to target.
+        
+        Args:
+            nums (list): List of integers.
+            target (int): The sum we are looking for.
+            
+        Returns:
+            list: Indices of the two numbers.
         """
         # 1. Initialize an empty dictionary (Hash Map)
         prevMap = {} 
