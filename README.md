@@ -14,4 +14,12 @@ A collection of LeetCode solutions to track my personal growth!
 | [0183-customers-who-never-order](https://github.com/mirzatairin/LeetCode-Solutions-by-Rin/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/mirzatairin/LeetCode-Solutions-by-Rin/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/mirzatairin/LeetCode-Solutions-by-Rin/tree/master/0196-delete-duplicate-emails) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mirzatairin/LeetCode-Solutions-by-Rin/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mirzatairin/LeetCode-Solutions-by-Rin/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
